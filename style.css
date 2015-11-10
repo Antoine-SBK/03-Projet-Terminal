@@ -1,4 +1,4 @@
-@media screen and (max-width: 800px){
+@media screen and (max-width: 600px){
 
   body {
     background-image: url(http://omiros.eu/wp-content/uploads/2015/08/boards-black-line-texture-background-wood-wallpaper-wood-texture-wallpapers.jpg);
@@ -10,7 +10,7 @@
     text-align: center;
     color: grey;
     font-family: 'Bangers';
- 
+
   }
 
   h2 {
