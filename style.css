@@ -1,0 +1,55 @@
+@media screen and (max-width: 800px){
+
+  body {
+    background-image: url(http://omiros.eu/wp-content/uploads/2015/08/boards-black-line-texture-background-wood-wallpaper-wood-texture-wallpapers.jpg);
+    color: lightgrey;
+
+  }
+
+  h1 {
+    text-align: center;
+    color: grey;
+    font-family: 'Bangers';
+
+  }
+
+  h2 {
+    text-align: center;
+    color: grey;
+    font-family: 'Bangers';
+
+  }
+   h3 {
+     text-align: center;
+     color: grey;
+     font-family: 'Bangers';
+ 
+   }
+
+  p {
+  color: white;
+    text-align: center;
+    font-family: purisa;
+    line-height: 3;
+    font-family: 'orbitron';
+
+  }
+  div {
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100%;
+    width: 100%;
+     margin-left: auto;
+     margin-right: auto;
+   box-shadow: 10px 10px 5px black;}
+  .bouton {
+    font-size: 15px;
+    font-family: serif sans-serif;
+    background-color: black;
+    color: #F2F2F2;
+    padding: 1px 1px 1px 1px;
+    border-radius: 5px;
+  }
+
+
+
+}
